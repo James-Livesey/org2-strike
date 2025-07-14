@@ -1,2 +1,2 @@
-# org2-strike
+# `STRIKE`
 Chance-based game for the Psion Organiser II.
