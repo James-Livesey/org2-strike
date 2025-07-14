@@ -1,0 +1,11 @@
+STKARENA:
+LOCAL I%,J%
+I%=1
+DO
+ J%=ARENA%(I%)
+ WHILE J%>0
+  PRINT I%+1;
+  J%=J%-1
+ ENDWH
+ I%=I%+1
+UNTIL I%=6
